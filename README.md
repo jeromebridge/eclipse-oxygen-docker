@@ -1,15 +1,13 @@
-# eclipse-photon-docker
+# eclipse-oxygen-docker
 [![](https://images.microbadger.com/badges/image/openkbs/eclipse-oxygen-docker.svg)](https://microbadger.com/images/openkbs/eclipse-oxygen-docker "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/openkbs/eclipse-oxygen-docker.svg)](https://microbadger.com/images/openkbs/eclipse-oxygen-docker "Get your own version badge on microbadger.com")
 
-* Eclipse-Photon + Java 8 JDK + Maven 3.5 + Python 3.5 + X11 (display GUI)
-
-# NOTE: This docker now is providing latest Eclipse Photon instead of Oxygen!!!
+* Eclipse-Oxygen + Java 8 JDK + Maven 3.5 + Python 3.5 + X11 (display GUI)
 
 # Components
-* Eclipse-Photon
-* java version "1.8.0_181"
-  Java(TM) SE Runtime Environment (build 1.8.0_181-b13)
-  Java HotSpot(TM) 64-Bit Server VM (build 25.181-b13, mixed mode)
+* Eclipse-Oxygen
+* java version "1.8.0_172"
+  Java(TM) SE Runtime Environment (build 1.8.0_172-b11)
+  Java HotSpot(TM) 64-Bit Server VM (build 25.172-b11, mixed mode)
 * Apache Maven 3.5.3
 * Python 3.5.2
 * X11 display desktop
